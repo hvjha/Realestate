@@ -100,7 +100,7 @@ header .icons #menu-bars{
 }
 .home{
     min-height: 100vh;
-    background: url(../images/bg-home-1.jpg) no-repeat;
+    background: url(../images/bg-home-4.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -128,7 +128,6 @@ header .icons #menu-bars{
 }
 .home form .buttons-container .btn{
     flex: 1;
-    
 }
 .home form .inputBox{
     display: flex;
@@ -581,8 +580,7 @@ header .icons #menu-bars{
         font-size:50%;
     }
 
-    .contact .row form .inputBox input{
+    .home form .buttons-container .btn{
         width: 100%;
     }
-
 }
